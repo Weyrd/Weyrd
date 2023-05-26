@@ -1,15 +1,16 @@
 
 <div id="header" align="center">
+   <h1>
+  Hey There
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
   <div id="badges">
     <a href="https://www.linkedin.com/in/pierre-pinateau-4212b4253/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     </div>
     <img src="https://komarev.com/ghpvc/?username=Weyrd&style=flat-square&color=blue" alt=""/>
-  <h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+ 
   
 </div>
 
@@ -82,6 +83,7 @@
 ### :fire: Somes Stats:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Weyrd&hide=Jupyter Notebook&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Weyrd&theme=radical)](https://git.io/streak-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Weyrd&show_icons=true&theme=radical)
 
