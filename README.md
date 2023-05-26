@@ -4,20 +4,18 @@
   Hey There
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-   <img src="https://komarev.com/ghpvc/?username=Weyrd&style=flat-square&color=blue" alt=""/>
+   <div align="center">
+  <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="300" height="225"/>
+</div>
   <div id="badges">
     <a href="https://www.linkedin.com/in/pierre-pinateau-4212b4253/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    </div>
-    
- 
-  
+   </div>
+   <img src="https://komarev.com/ghpvc/?username=Weyrd&style=flat-square&color=blue" alt=""/>
 </div>
 
-<div align="center">
-  <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="300" height="225"/>
-</div>
+
 
 ---
 ### 🇫🇷 About Me:
