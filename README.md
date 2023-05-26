@@ -84,7 +84,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Weyrd&hide=Jupyter%20Notebook&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Weyrd&exclude_days=Sun%2CSat&theme=radical)](https://git.io/streak-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Weyrd&include_all_commits=true&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Weyrd&show_icons=true&theme=radical)
 
 <!--
 **Weyrd/Weyrd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
