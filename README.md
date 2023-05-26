@@ -1,12 +1,11 @@
 
 <div id="header" align="center">
-  ### Hey there 👋
   <div id="badges">
     <a href="https://www.linkedin.com/in/pierre-pinateau-4212b4253/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     
-    <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+    <img src="https://komarev.com/ghpvc/?username=Weyrd&style=flat-square&color=blue" alt=""/>
   </div>
   <h1>
   hey there
@@ -20,7 +19,7 @@
 - 🔭 I’m currently working in [Kyutech Mems Lab (AI ehancing project)](http://www.life.kyutech.ac.jp/~momo/)
 - 🌱 I’m currently learning [Angular](https://angular.io/), [Svelte](https://svelte.dev/)
 - 💬 Ask me about [Python](https://www.python.org/)
-- 📫 How to reach me: [pierre.pinateau@gmail.com](mailto:pierre.pinateau@gmail.com]
+- 📫 How to reach me: pierre.pinateau@gmail.com
 ***
 ### Languages and Tools:
 # Front:
