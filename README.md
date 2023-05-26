@@ -18,8 +18,8 @@
 </div>
 
 ---
-### About Me:
-- 🔭 I’m currently working in [Kyutech Mems Lab (AI ehancing project)](http://www.life.kyutech.ac.jp/~momo/)
+### 🇫🇷 About Me:
+- 🔭 I’m currently a french student working in [Kyutech Mems Lab (AI ehancing project)](http://www.life.kyutech.ac.jp/~momo/)
 - 🌱 I’m currently learning [Angular](https://angular.io/), [Svelte](https://svelte.dev/)
 - 💬 Ask me about [Python](https://www.python.org/)
 - 📫 How to reach me: pierre.pinateau@gmail.com
@@ -79,8 +79,10 @@
 
 
 ---
-### Somes Stats:
-
+### :fire: Somes Stats:
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Weyrd&theme=radical&mode=weekly&hide_longest_streak=true)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Weyrd)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Weyrd&show_icons=true&theme=radical)
 
 <!--
 **Weyrd/Weyrd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
