@@ -80,8 +80,9 @@
 
 ---
 ### :fire: Somes Stats:
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Weyrd&theme=radical&mode=weekly&hide_longest_streak=true)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Weyrd)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Weyrd&hide=Jupyter Notebook&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Weyrd&theme=radical)](https://git.io/streak-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Weyrd&show_icons=true&theme=radical)
 
 <!--
