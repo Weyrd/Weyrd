@@ -19,7 +19,7 @@
 
 ---
 ### 🇫🇷 About Me:
-- 🔭 I’m currently a french student working in [Kyutech Mems Lab (AI ehancing project)](http://www.life.kyutech.ac.jp/~momo/)
+- 🔭 I’m currently a french student working in [Kyutech Mems Lab (AI enhancing project)](http://www.life.kyutech.ac.jp/~momo/)
 - 🌱 I’m currently learning [Angular](https://angular.io/), [Svelte](https://svelte.dev/)
 - 💬 Ask me about [Python](https://www.python.org/)
 - 📫 How to reach me: pierre.pinateau@gmail.com
