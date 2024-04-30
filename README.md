@@ -1,4 +1,3 @@
-
 <div id="header" align="center">
    <h1>
   Hey There
@@ -19,69 +18,96 @@
 
 ---
 ### 🇫🇷 About Me:
-- 🔭 I’m currently a french student working in [Kyutech Mems Lab (AI enhancing project)](http://www.life.kyutech.ac.jp/~momo/)
-- 🌱 I’m currently learning [Angular](https://angular.io/), [Svelte](https://svelte.dev/)
+- 🔭 I’m currently a French student working in [SMAT (Fullstack)]([http://www.life.kyutech.ac.jp/~momo/](https://www.smat.io/))
+- Previous Job: [Kyutech Mems Lab (AI enhancing project)](http://www.life.kyutech.ac.jp/~momo/)
+- 🌱 I’m currently learning [React](https://reactjs.org/), [Tailwind CSS](https://tailwindcss.com/) and [Next.js](https://nextjs.org/)
 - 💬 Ask me about [Python](https://www.python.org/)
 - 📫 How to reach me: pierre.pinateau@gmail.com
 ---
 ### :hammer_and_wrench: Languages and Tools:
 #### Front:
 <div>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" title="css3" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg" title="html" alt="html" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jquery/jquery-original.svg" title="jquery" alt="jquery" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/angularjs/angularjs-original.svg" title="angular" alt="angular" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/svelte/svelte-original.svg" title="svelte" alt="svelte" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/threejs/threejs-original.svg" title="threejs" alt="threejs" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=html" title="html5" alt="html5" width="40" height="40"/>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" title="css3" alt="css3" width="40" height="40"/>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" title="javascript" alt="javascript" width="40" height="40"/>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" title="react" alt="react" width="40" height="40"/>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=angular" title="angular" alt="angular" width="40" height="40"/>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=svelte" title="svelte" alt="svelte" width="40" height="40"/>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" title="nextjs" alt="nextjs" width="40" height="40"/>
 </div>
   
 #### Back:
 <div>
-<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/flask/flask-original.svg" title="flask" alt="flask" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/express/express-original.svg" title="expressJS" alt="expressJS" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=python" title="python" alt="python" width="40" height="40"/>
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=nodejs" title="nodejs" alt="nodejs" width="40" height="40"/>
 </div>
 
 #### Database:
 <div>
-<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original.svg" title="mySQL" alt="mySQL" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mongodb/mongodb-original.svg" title="mongodb" alt="mongodb" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=mysql" title="mysql" alt="mysql" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=mongodb" title="mongo" alt="mongo" width="40" height="40"/>
 </div>
 
 
 #### Web Server:
 <div>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/apache/apache-original.svg" title="apache" alt="apache" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nginx/nginx-original.svg" title="nginx" alt="nginx" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" title="apache" alt="apache" width="40" height="40"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" title="nginx" alt="nginx" width="40" height="40"/>
 </div>
+
 
 
 #### Others Languages:
 <div>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original.svg" title="nodejs" alt="nodejs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/php/php-original.svg" title="php" alt="php" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg" title="c" alt="c" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/cplusplus/cplusplus-original.svg" title="c++" alt="c++" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/matlab/matlab-original.svg" title="MatLab" alt="MatLab" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jupyter/jupyter-original.svg" title="jupyter" alt="jupyter" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/tensorflow/tensorflow-original.svg" title="tensorflow" alt="tensorflow" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/selenium/selenium-original.svg" title="selenium" alt="selenium" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=php" title="php" alt="php" width="40" height="40"/>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=c" title="c" alt="c" width="40" height="40"/>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cpp" title="cpp" alt="cpp" width="40" height="40"/>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" title="java" alt="java" width="40" height="40"/>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=matlab" title="matlab" alt="matlab" width="40" height="40"/>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=selenium" title="selenium" alt="selenium" width="40" height="40"/>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" title="tensorflow" alt="tensorflow" width="40" height="40"/>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=jupither" title="jupyter notebook" alt="jupyter notebook" width="40" height="40"/>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=python" title="python" alt="python" width="40" height="40"/>
 </div>
 
 #### Tools:
 <div>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/docker/docker-original.svg" title="docker" alt="docker" width="40" height="40"/>
-   <img src="https://www.svgrepo.com/show/454430/burpsuite-security-software.svg" title="Burp" alt="Burp" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/premierepro/premierepro-original.svg" title="premierepro" alt="premierepro" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/gimp/gimp-original.svg" title="gimp" alt="gimp" width="40" height="40"/>
-...
+  <img src="https://skillicons.dev/icons?i=vscode" title="vscode" alt="vscode" width="40" height="40"/>
+   <img width="12" />
+<div>
+  <img src="https://www.svgrepo.com/show/454430/burpsuite-security-software.svg" title="burp" alt="burp" width="40" height="40"/>
+   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" title="jetbrains" alt="jetbrains" width="40" height="40"/>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=gimp" title="gimp" alt="gimp" width="40" height="40"/>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=affinity-photo" title="affinity" alt="affinity" width="40" height="40"/>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" title="docker" alt="docker" width="40" height="40"/>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" title="git" alt="git" width="40" height="40"/>
 </div>
 
 
 
 ---
-### :fire: Somes Stats:
+### :fire: Some Stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Weyrd&hide=Jupyter%20Notebook&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Weyrd&exclude_days=Sun%2CSat&theme=radical)](https://git.io/streak-stats)
