@@ -42,7 +42,9 @@
    <img src="https://skillicons.dev/icons?i=threejs" title="threejs" alt="threejs" width="40" height="40"/>
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=jquery" title="jquery" alt="jquery" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=bootstrap" title="bootstrap" alt="bootstrap" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=nextjs" title="nextjs" alt="nextjs" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" title="tailwind" alt="tailwind" width="40" height="40"/>
 </div>
   
 #### Back:
@@ -50,6 +52,8 @@
 <img src="https://skillicons.dev/icons?i=flask" title="flask" alt="flask" width="40" height="40"/>
 <img width="12" />
 <img src="https://skillicons.dev/icons?i=express" title="express" alt="express" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=nestjs" title="nestjs" alt="nestjs" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=nestjs" title="npm" alt="npm" width="40" height="40"/>
 </div>
 
 
@@ -57,6 +61,7 @@
 <div>
 <img src="https://skillicons.dev/icons?i=mysql" title="mysql" alt="mysql" width="40" height="40"/>
 <img src="https://skillicons.dev/icons?i=mongodb" title="mongo" alt="mongo" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=postgres" title="postgres" alt="postgres" width="40" height="40"/>
 </div>
 
 
@@ -103,6 +108,8 @@
   <img src="https://skillicons.dev/icons?i=affinity-photo" title="affinity" alt="affinity" width="40" height="40"/>
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=kali" title="kali" alt="kali" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=postman" title="postman" alt="postman" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=latex" title="latex" alt="latex" width="40" height="40"/>
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" title="docker" alt="docker" width="40" height="40"/>
   <img width="12" />
