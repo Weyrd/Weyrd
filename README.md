@@ -39,6 +39,9 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=svelte" title="svelte" alt="svelte" width="40" height="40"/>
   <img width="12" />
+   <img src="https://skillicons.dev/icons?i=threejs" title="threejs" alt="threejs" width="40" height="40"/>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=jquery" title="jquery" alt="jquery" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=nextjs" title="nextjs" alt="nextjs" width="40" height="40"/>
 </div>
   
@@ -48,6 +51,7 @@
 <img width="12" />
 <img src="https://skillicons.dev/icons?i=nodejs" title="nodejs" alt="nodejs" width="40" height="40"/>
 </div>
+
 
 #### Database:
 <div>
@@ -88,20 +92,19 @@
 
 #### Tools:
 <div>
-  <img src="https://skillicons.dev/icons?i=vscode" title="vscode" alt="vscode" width="40" height="40"/>
-   <img width="12" />
-<div>
   <img src="https://www.svgrepo.com/show/454430/burpsuite-security-software.svg" title="burp" alt="burp" width="40" height="40"/>
-   <img width="12" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" title="jetbrains" alt="jetbrains" width="40" height="40"/>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=gimp" title="gimp" alt="gimp" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/gimp/gimp-original.svg" title="gimp" alt="gimp" width="40" height="40"/>
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=affinity-photo" title="affinity" alt="affinity" width="40" height="40"/>
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" title="docker" alt="docker" width="40" height="40"/>
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" title="git" alt="git" width="40" height="40"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" title="premiere pro" alt="premiere pro" width="40" height="40"/>
 </div>
 
 
