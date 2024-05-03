@@ -28,19 +28,12 @@
 #### Front:
 <div>
   <img src="https://skillicons.dev/icons?i=html" title="html5" alt="html5" width="40" height="40"/>
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" title="css3" alt="css3" width="40" height="40"/>
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" title="javascript" alt="javascript" width="40" height="40"/>
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" title="react" alt="react" width="40" height="40"/>
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=angular" title="angular" alt="angular" width="40" height="40"/>
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=svelte" title="svelte" alt="svelte" width="40" height="40"/>
-  <img width="12" />
-   <img src="https://skillicons.dev/icons?i=threejs" title="threejs" alt="threejs" width="40" height="40"/>
-  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=threejs" title="threejs" alt="threejs" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=jquery" title="jquery" alt="jquery" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=bootstrap" title="bootstrap" alt="bootstrap" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=nextjs" title="nextjs" alt="nextjs" width="40" height="40"/>
@@ -76,21 +69,13 @@
 #### Others Languages:
 <div>
   <img src="https://skillicons.dev/icons?i=php" title="php" alt="php" width="40" height="40"/>
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=c" title="c" alt="c" width="40" height="40"/>
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=cpp" title="cpp" alt="cpp" width="40" height="40"/>
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" title="java" alt="java" width="40" height="40"/>
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=matlab" title="matlab" alt="matlab" width="40" height="40"/>
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=selenium" title="selenium" alt="selenium" width="40" height="40"/>
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=tensorflow" title="tensorflow" alt="tensorflow" width="40" height="40"/>
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=jupither" title="jupyter notebook" alt="jupyter notebook" width="40" height="40"/>
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=python" title="python" alt="python" width="40" height="40"/>
 </div>
 
@@ -98,25 +83,17 @@
 <div>
    <img src="https://skillicons.dev/icons?i=gcp" title="gcp" alt="gcp" width="40" height="40"/>
   <img src="https://www.svgrepo.com/show/454430/burpsuite-security-software.svg" title="burp" alt="burp" width="40" height="40"/>
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" title="jetbrains" alt="jetbrains" width="40" height="40"/>
-   
-  <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/gimp/gimp-original.svg" title="gimp" alt="gimp" width="40" height="40"/>
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=affinity-photo" title="affinity" alt="affinity" width="40" height="40"/>
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=kali" title="kali" alt="kali" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=postman" title="postman" alt="postman" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=latex" title="latex" alt="latex" width="40" height="40"/>
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" title="docker" alt="docker" width="40" height="40"/>
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" title="git" alt="git" width="40" height="40"/>
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" title="premiere pro" alt="premiere pro" width="40" height="40"/>
    <img src="https://skillicons.dev/icons?i=cloudflare" title="cloudflare" alt="cloudflare" width="40" height="40"/>
-  <img width="12" />
+     <img src="https://skillicons.dev/icons?i=affinity-photo" title="affinity" alt="affinity" width="40" height="40"/>
+
 </div>
 
 
