@@ -50,10 +50,9 @@
 #### Back:
 <div>
 <img src="https://skillicons.dev/icons?i=flask" title="flask" alt="flask" width="40" height="40"/>
-<img width="12" />
 <img src="https://skillicons.dev/icons?i=express" title="express" alt="express" width="40" height="40"/>
 <img src="https://skillicons.dev/icons?i=nestjs" title="nestjs" alt="nestjs" width="40" height="40"/>
-<img src="https://skillicons.dev/icons?i=nestjs" title="npm" alt="npm" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=npm" title="npm" alt="npm" width="40" height="40"/>
 </div>
 
 
