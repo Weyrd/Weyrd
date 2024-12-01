@@ -24,7 +24,7 @@
 - [SMAT (Fullstack)](https://www.smat.io/)
 - 🌱 I’m currently learning [React](https://reactjs.org/), [Tailwind CSS](https://tailwindcss.com/) and [Next.js](https://nextjs.org/)
 - 💬 Ask me about [Python](https://www.python.org/)
-- 📫 How to reach me: pierre.pinateau@gmail.com
+- 📫 How to reach me: [mail](mailto:pierre.pinateau@gmail.com)
 ---
 ### :hammer_and_wrench: Languages and Tools:
 #### Front:
