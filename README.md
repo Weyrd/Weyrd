@@ -19,7 +19,7 @@
 ---
 ### 🇫🇷 About Me:
 - 🔭 I’m currently working at Alten for [Digiteo - CEA](https://www.wikiwand.com/fr/articles/Digiteo)
-- Previous Job: 
+- Previous Jobs: 
 - [Kyutech Mems Lab (AI enhancing project)](http://www.life.kyutech.ac.jp/~momo/)
 - [SMAT (Fullstack)](https://www.smat.io/)
 - 🌱 I’m currently learning [React](https://reactjs.org/), [Tailwind CSS](https://tailwindcss.com/) and [Next.js](https://nextjs.org/)
