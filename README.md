@@ -20,9 +20,9 @@
 ### 🇫🇷 About Me:
 - 🔭 I’m currently working at Alten for [Digiteo - CEA](https://www.wikiwand.com/fr/articles/Digiteo)
 - Previous Jobs: 
-- [Kyutech Mems Lab (AI enhancing project)](http://www.life.kyutech.ac.jp/~momo/)
-- [SMAT (Fullstack)](https://www.smat.io/)
-- 🌱 I’m currently learning [React](https://reactjs.org/), [Tailwind CSS](https://tailwindcss.com/) and [Next.js](https://nextjs.org/)
+   - [Kyutech Mems Lab (AI enhancing project)](http://www.life.kyutech.ac.jp/~momo/)
+   - [SMAT (Fullstack)](https://www.smat.io/)
+- 🌱 I’m currently learning [Next.js](https://nextjs.org/)
 - 💬 Ask me about [Python](https://www.python.org/)
 - 📫 How to reach me: [mail](mailto:pierre.pinateau@gmail.com)
 ---
