@@ -18,7 +18,7 @@
 
 ---
 ### 🇫🇷 About Me:
-- 🔭 I’m currently working at Alten for [Digiteo - CEA]([https://www.smat.io/](https://www.wikiwand.com/fr/articles/Digiteo))
+- 🔭 I’m currently working at Alten for [Digiteo - CEA](https://www.wikiwand.com/fr/articles/Digiteo)
 - Previous Job: 
 - [Kyutech Mems Lab (AI enhancing project)](http://www.life.kyutech.ac.jp/~momo/)
 - [SMAT (Fullstack)](https://www.smat.io/)
