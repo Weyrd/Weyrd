@@ -20,14 +20,14 @@
 ### 🇫🇷 About Me:
 - 🔭 I’m currently working at [Idéine](https://www.ideine.fr/) (France)
 - Previous Jobs:
-   - Alten for [Digiteo - CEA](https://www.wikiwand.com/fr/articles/Digiteo) (France)
+   - [Digiteo - CEA](https://www.wikiwand.com/fr/articles/Digiteo) for Alten (France)
    - [Kyutech Mems Lab (AI enhancing project)](http://www.life.kyutech.ac.jp/~momo/) (Japan)
    - [SMAT (Fullstack)](https://www.smat.io/) (Switzerland)
 - 🌱 I’m currently learning [Next.js](https://nextjs.org/) 
 - 💬 Ask me about [Python](https://www.python.org/)
 - 📫 How to reach me: [mail](mailto:pierre.pinateau@gmail.com)
 ---
-### :hammer_and_wrench: Languages and Tools:
+<!--! ### :hammer_and_wrench: Languages and Tools:
 #### Front:
 <div>
   <img src="https://skillicons.dev/icons?i=html" title="html5" alt="html5" width="40" height="40"/>
@@ -99,7 +99,7 @@
 
 </div>
 
-
+-->
 
 ---
 ### :fire: Some Stats:
