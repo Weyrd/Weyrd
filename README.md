@@ -18,11 +18,11 @@
 
 ---
 ### 🇫🇷 About Me:
-- 🔭 I’m currently working at [Idéine](https://www.ideine.fr/) (France)
+- 🔭 I’m currently working at [Idéine](https://www.ideine.fr/) (Fullstack Azure) (France)
 - Previous Jobs:
-   - [Digiteo - CEA](https://www.wikiwand.com/fr/articles/Digiteo) for Alten (France)
+   - [Digiteo - CEA (Scientific Software developement))](https://www.wikiwand.com/fr/articles/Digiteo) for Alten (France)
    - [Kyutech Mems Lab (AI enhancing project)](http://www.life.kyutech.ac.jp/~momo/) (Japan)
-   - [SMAT (Fullstack)](https://www.smat.io/) (Switzerland)
+   - [SMAT (Fullstack GCP)](https://www.smat.io/) (Switzerland)
 - 📫 How to reach me: [mail](mailto:pierre.pinateau@gmail.com)
 ---
 <!--! ### :hammer_and_wrench: Languages and Tools:
